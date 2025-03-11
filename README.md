@@ -57,3 +57,4 @@ G40,high,yes,excellent,yes
 ![Screenshot 2025-03-11 115230](https://github.com/user-attachments/assets/768e9a65-7209-492c-ba2f-0c24be7762d6)
 
 ### RESULT: 
+associate rules for the employee dataset using Apriori Algorithm is executed successfully.
